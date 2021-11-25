@@ -1098,3 +1098,6 @@ minio:
       cpu: 100m
       memory: 128Mi
   secretKey: supersecret
+
+  graphite:
+    enabled: false
